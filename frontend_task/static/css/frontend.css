@@ -1,0 +1,8 @@
+body {
+  height: 100%
+}
+
+.dark-box {
+	background-color: #333333;
+	color: white;
+}
